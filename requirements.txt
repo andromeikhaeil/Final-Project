@@ -61,3 +61,8 @@ uvicorn==0.29.0
 validators==0.24.0
 markdown2
 pyjwt
+fastapi==0.68.0
+sqlalchemy==1.4.22
+alembic==1.7.1
+uvicorn[standard]==0.15.0
+pytest==6.2.5
