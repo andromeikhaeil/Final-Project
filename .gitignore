@@ -1,8 +1,9 @@
-venv
-_*pycache*_
-qr_codes
+# .gitignore
+*.pyc
+__pycache__/
 *.db
-*.sqlite
-.vscode
+*.sqlite3
 .env
-.coverage
+.venv/
+.idea/
+.DS_Store
